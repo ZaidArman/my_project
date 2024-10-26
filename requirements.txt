@@ -1,0 +1,12 @@
+python-dotenv
+requests
+Django
+django-environ
+djangorestframework
+djangorestframework-jwt
+PyJWT
+python-dotenv
+sqlparse
+openai
+langchain-openai
+langchain_core
